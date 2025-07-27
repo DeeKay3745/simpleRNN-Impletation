@@ -19,10 +19,15 @@ A lightweight and interactive sentiment analysis web app using a **Simple Recurr
 ## 📂 Project Structure
 .
 ├── simpleRnn.ipynb        # Jupyter Notebook with model training & evaluation
+
 ├── main.py                # Streamlit app source code
+
 ├── model.h5               # Trained SimpleRNN model
+
 ├── tokenizer.pkl          # Tokenizer used for preprocessing
+
 ├── requirements.txt       # Python dependencies
+
 └── README.md              # You’re here
 
 ---
